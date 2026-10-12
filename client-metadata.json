@@ -1,0 +1,16 @@
+{
+  "redirect_uris": [
+    "http://127.0.0.1:8787/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "account",
+  "client_name": "laowang-binance-agent",
+  "client_uri": "https://zhufawuwo-commit.github.io/binance-agent-client/",
+  "token_endpoint_authn_method": "none"
+}
